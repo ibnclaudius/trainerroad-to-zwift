@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "async-sema": "^3.1.0",
+    "delayed-promise-retry": "^0.0.4",
     "node-fetch": "^2.6.1"
   }
 }
