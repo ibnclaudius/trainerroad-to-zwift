@@ -77,3 +77,6 @@ typings/
 
 # Zwift Workouts
 *.zwo
+
+# Apple file
+# .DS_Store
