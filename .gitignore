@@ -79,4 +79,4 @@ typings/
 *.zwo
 
 # Apple file
-# .DS_Store
+.DS_Store
